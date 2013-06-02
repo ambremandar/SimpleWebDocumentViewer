@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebApp", "..\..\..\..\..\..\Projects\Practice\DocumentViewer\WebApp\", "{97379F1F-3646-429F-9F51-9AAB97FCBB95}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WebApp"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Projects\Practice\DocumentViewer\WebApp\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebApp\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebApp"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Projects\Practice\DocumentViewer\WebApp\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebApp\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54026"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDocumentViewer", "..\..\..\..\..\..\Projects\Practice\DocumentViewer\DocumentViewer\WebDocumentViewer.csproj", "{D944261C-5F87-40DC-92CF-F62F866232FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97379F1F-3646-429F-9F51-9AAB97FCBB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97379F1F-3646-429F-9F51-9AAB97FCBB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97379F1F-3646-429F-9F51-9AAB97FCBB95}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{97379F1F-3646-429F-9F51-9AAB97FCBB95}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{D944261C-5F87-40DC-92CF-F62F866232FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D944261C-5F87-40DC-92CF-F62F866232FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D944261C-5F87-40DC-92CF-F62F866232FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D944261C-5F87-40DC-92CF-F62F866232FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

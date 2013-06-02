@@ -1,0 +1,8 @@
+C:\Projects\Practice\WebDocumentViewer\DocumentViewer\bin\Debug\WebDocumentViewer.dll
+C:\Projects\Practice\WebDocumentViewer\DocumentViewer\bin\Debug\WebDocumentViewer.pdb
+C:\Projects\Practice\WebDocumentViewer\DocumentViewer\obj\Debug\WebDocumentViewer.dll
+C:\Projects\Practice\WebDocumentViewer\DocumentViewer\obj\Debug\WebDocumentViewer.pdb
+C:\Projects\Practice\DocumentViewer\DocumentViewer\bin\Debug\WebDocumentViewer.dll
+C:\Projects\Practice\DocumentViewer\DocumentViewer\bin\Debug\WebDocumentViewer.pdb
+C:\Projects\Practice\DocumentViewer\DocumentViewer\obj\Debug\WebDocumentViewer.dll
+C:\Projects\Practice\DocumentViewer\DocumentViewer\obj\Debug\WebDocumentViewer.pdb
