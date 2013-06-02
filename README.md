@@ -1,7 +1,7 @@
 SimpleWebDocumentViewer
 =======================
 
-Simple web document viewer that is used to easily show a document on a web page. This is a simple control built using C# and .NET.
+Simple web document viewer that is used to easily show a document(pdf,swf,doc etc) on a web page. This is a simple control built using C# and .NET.
 
 
 Features
