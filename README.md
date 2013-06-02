@@ -8,4 +8,4 @@ Features
 -----------------------
 
 1. The document viewer is built using WebControl and C#.
-2. The document viewer has a FilePath property and file path name will be assigned to this property.
+2. The document viewer has a FilePath property and the path name of the document will be assigned to this property.
